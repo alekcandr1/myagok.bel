@@ -1,0 +1,74 @@
+[28-Nov-2023 11:18:30 Europe/Minsk] PHP Fatal error:  Uncaught phpmailerException: SMTP Error: Could not authenticate. in /home/ledgerwa/xn--c1aoej7f.xn--90ais/class.phpmailer.php:1692
+Stack trace:
+#0 /home/ledgerwa/xn--c1aoej7f.xn--90ais/class.phpmailer.php(1540): PHPMailer->smtpConnect(Array)
+#1 /home/ledgerwa/xn--c1aoej7f.xn--90ais/class.phpmailer.php(1335): PHPMailer->smtpSend('Date: Tue, 28 N...', '<p>\xD0\x9C\xD1\x8F\xD0\xB3\xD0\xBA\xD0\xB8\xD0\xB5...')
+#2 /home/ledgerwa/xn--c1aoej7f.xn--90ais/class.phpmailer.php(1213): PHPMailer->postSend()
+#3 /home/ledgerwa/xn--c1aoej7f.xn--90ais/mail.class.php(27): PHPMailer->send()
+#4 {main}
+  thrown in /home/ledgerwa/xn--c1aoej7f.xn--90ais/class.phpmailer.php on line 1692
+[28-Nov-2023 11:24:28 Europe/Minsk] PHP Fatal error:  Uncaught phpmailerException: SMTP Error: Could not authenticate. in /home/ledgerwa/xn--c1aoej7f.xn--90ais/class.phpmailer.php:1692
+Stack trace:
+#0 /home/ledgerwa/xn--c1aoej7f.xn--90ais/class.phpmailer.php(1540): PHPMailer->smtpConnect(Array)
+#1 /home/ledgerwa/xn--c1aoej7f.xn--90ais/class.phpmailer.php(1335): PHPMailer->smtpSend('Date: Tue, 28 N...', '<p>\xD0\x9C\xD1\x8F\xD0\xB3\xD0\xBA\xD0\xB8\xD0\xB5...')
+#2 /home/ledgerwa/xn--c1aoej7f.xn--90ais/class.phpmailer.php(1213): PHPMailer->postSend()
+#3 /home/ledgerwa/xn--c1aoej7f.xn--90ais/mail.class.php(27): PHPMailer->send()
+#4 {main}
+  thrown in /home/ledgerwa/xn--c1aoej7f.xn--90ais/class.phpmailer.php on line 1692
+[28-Nov-2023 11:25:09 Europe/Minsk] PHP Fatal error:  Uncaught phpmailerException: SMTP Error: Could not authenticate. in /home/ledgerwa/xn--c1aoej7f.xn--90ais/class.phpmailer.php:1692
+Stack trace:
+#0 /home/ledgerwa/xn--c1aoej7f.xn--90ais/class.phpmailer.php(1540): PHPMailer->smtpConnect(Array)
+#1 /home/ledgerwa/xn--c1aoej7f.xn--90ais/class.phpmailer.php(1335): PHPMailer->smtpSend('Date: Tue, 28 N...', '<p>\xD0\x9C\xD1\x8F\xD0\xB3\xD0\xBA\xD0\xB8\xD0\xB5...')
+#2 /home/ledgerwa/xn--c1aoej7f.xn--90ais/class.phpmailer.php(1213): PHPMailer->postSend()
+#3 /home/ledgerwa/xn--c1aoej7f.xn--90ais/mail.class.php(27): PHPMailer->send()
+#4 {main}
+  thrown in /home/ledgerwa/xn--c1aoej7f.xn--90ais/class.phpmailer.php on line 1692
+[28-Nov-2023 11:25:58 Europe/Minsk] PHP Fatal error:  Uncaught phpmailerException: SMTP Error: Could not authenticate. in /home/ledgerwa/xn--c1aoej7f.xn--90ais/class.phpmailer.php:1692
+Stack trace:
+#0 /home/ledgerwa/xn--c1aoej7f.xn--90ais/class.phpmailer.php(1540): PHPMailer->smtpConnect(Array)
+#1 /home/ledgerwa/xn--c1aoej7f.xn--90ais/class.phpmailer.php(1335): PHPMailer->smtpSend('Date: Tue, 28 N...', '<p>\xD0\x9C\xD1\x8F\xD0\xB3\xD0\xBA\xD0\xB8\xD0\xB5...')
+#2 /home/ledgerwa/xn--c1aoej7f.xn--90ais/class.phpmailer.php(1213): PHPMailer->postSend()
+#3 /home/ledgerwa/xn--c1aoej7f.xn--90ais/mail.class.php(27): PHPMailer->send()
+#4 {main}
+  thrown in /home/ledgerwa/xn--c1aoej7f.xn--90ais/class.phpmailer.php on line 1692
+[28-Nov-2023 11:27:33 Europe/Minsk] PHP Fatal error:  Uncaught phpmailerException: SMTP Error: Could not authenticate. in /home/ledgerwa/xn--c1aoej7f.xn--90ais/class.phpmailer.php:1692
+Stack trace:
+#0 /home/ledgerwa/xn--c1aoej7f.xn--90ais/class.phpmailer.php(1540): PHPMailer->smtpConnect(Array)
+#1 /home/ledgerwa/xn--c1aoej7f.xn--90ais/class.phpmailer.php(1335): PHPMailer->smtpSend('Date: Tue, 28 N...', '<p>\xD0\x9C\xD1\x8F\xD0\xB3\xD0\xBA\xD0\xB8\xD0\xB5...')
+#2 /home/ledgerwa/xn--c1aoej7f.xn--90ais/class.phpmailer.php(1213): PHPMailer->postSend()
+#3 /home/ledgerwa/xn--c1aoej7f.xn--90ais/mail.class.php(27): PHPMailer->send()
+#4 {main}
+  thrown in /home/ledgerwa/xn--c1aoej7f.xn--90ais/class.phpmailer.php on line 1692
+[28-Nov-2023 11:27:52 Europe/Minsk] PHP Fatal error:  Uncaught phpmailerException: SMTP Error: Could not authenticate. in /home/ledgerwa/xn--c1aoej7f.xn--90ais/class.phpmailer.php:1692
+Stack trace:
+#0 /home/ledgerwa/xn--c1aoej7f.xn--90ais/class.phpmailer.php(1540): PHPMailer->smtpConnect(Array)
+#1 /home/ledgerwa/xn--c1aoej7f.xn--90ais/class.phpmailer.php(1335): PHPMailer->smtpSend('Date: Tue, 28 N...', '<p>\xD0\x9C\xD1\x8F\xD0\xB3\xD0\xBA\xD0\xB8\xD0\xB5...')
+#2 /home/ledgerwa/xn--c1aoej7f.xn--90ais/class.phpmailer.php(1213): PHPMailer->postSend()
+#3 /home/ledgerwa/xn--c1aoej7f.xn--90ais/mail.class.php(27): PHPMailer->send()
+#4 {main}
+  thrown in /home/ledgerwa/xn--c1aoej7f.xn--90ais/class.phpmailer.php on line 1692
+[28-Nov-2023 11:32:40 Europe/Minsk] PHP Notice:  Undefined index: name in /home/ledgerwa/xn--c1aoej7f.xn--90ais/mail.class.php on line 3
+[28-Nov-2023 11:32:40 Europe/Minsk] PHP Notice:  Undefined index: body in /home/ledgerwa/xn--c1aoej7f.xn--90ais/mail.class.php on line 4
+[28-Nov-2023 11:32:56 Europe/Minsk] PHP Fatal error:  Uncaught phpmailerException: SMTP Error: Could not authenticate. in /home/ledgerwa/xn--c1aoej7f.xn--90ais/class.phpmailer.php:1692
+Stack trace:
+#0 /home/ledgerwa/xn--c1aoej7f.xn--90ais/class.phpmailer.php(1540): PHPMailer->smtpConnect(Array)
+#1 /home/ledgerwa/xn--c1aoej7f.xn--90ais/class.phpmailer.php(1335): PHPMailer->smtpSend('Date: Tue, 28 N...', '<p>\xD0\x9C\xD1\x8F\xD0\xB3\xD0\xBA\xD0\xB8\xD0\xB5...')
+#2 /home/ledgerwa/xn--c1aoej7f.xn--90ais/class.phpmailer.php(1213): PHPMailer->postSend()
+#3 /home/ledgerwa/xn--c1aoej7f.xn--90ais/mail.class.php(27): PHPMailer->send()
+#4 {main}
+  thrown in /home/ledgerwa/xn--c1aoej7f.xn--90ais/class.phpmailer.php on line 1692
+[28-Nov-2023 11:33:44 Europe/Minsk] PHP Fatal error:  Uncaught phpmailerException: SMTP Error: Could not authenticate. in /home/ledgerwa/xn--c1aoej7f.xn--90ais/class.phpmailer.php:1692
+Stack trace:
+#0 /home/ledgerwa/xn--c1aoej7f.xn--90ais/class.phpmailer.php(1540): PHPMailer->smtpConnect(Array)
+#1 /home/ledgerwa/xn--c1aoej7f.xn--90ais/class.phpmailer.php(1335): PHPMailer->smtpSend('Date: Tue, 28 N...', '<p>\xD0\x9C\xD1\x8F\xD0\xB3\xD0\xBA\xD0\xB8\xD0\xB5...')
+#2 /home/ledgerwa/xn--c1aoej7f.xn--90ais/class.phpmailer.php(1213): PHPMailer->postSend()
+#3 /home/ledgerwa/xn--c1aoej7f.xn--90ais/mail.class.php(27): PHPMailer->send()
+#4 {main}
+  thrown in /home/ledgerwa/xn--c1aoej7f.xn--90ais/class.phpmailer.php on line 1692
+[28-Nov-2023 11:52:09 Europe/Minsk] PHP Fatal error:  Uncaught phpmailerException: SMTP Error: Could not authenticate. in /home/ledgerwa/xn--c1aoej7f.xn--90ais/class.phpmailer.php:1692
+Stack trace:
+#0 /home/ledgerwa/xn--c1aoej7f.xn--90ais/class.phpmailer.php(1540): PHPMailer->smtpConnect(Array)
+#1 /home/ledgerwa/xn--c1aoej7f.xn--90ais/class.phpmailer.php(1335): PHPMailer->smtpSend('Date: Tue, 28 N...', '<p>\xD0\x9C\xD1\x8F\xD0\xB3\xD0\xBA\xD0\xB8\xD0\xB5...')
+#2 /home/ledgerwa/xn--c1aoej7f.xn--90ais/class.phpmailer.php(1213): PHPMailer->postSend()
+#3 /home/ledgerwa/xn--c1aoej7f.xn--90ais/mail.class.php(27): PHPMailer->send()
+#4 {main}
+  thrown in /home/ledgerwa/xn--c1aoej7f.xn--90ais/class.phpmailer.php on line 1692

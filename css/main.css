@@ -1,0 +1,109 @@
+/* Short CSS */
+
+.fs10 {font-size: 10px;}
+.fs11 {font-size: 11px;}
+.fs12 {font-size: 12px;}
+.fs13 {font-size: 13px;}
+.fs14 {font-size: 14px;}
+.fs15 {font-size: 15px;}
+.fs16 {font-size: 16px;}
+.fs17 {font-size: 17px;}
+.fs18 {font-size: 18px;}
+.fs19 {font-size: 19px;}
+.fs20 {font-size: 20px;}
+.fs21 {font-size: 21px;}
+.fs22 {font-size: 22px;}
+.fs23 {font-size: 23px;}
+.fs24 {font-size: 24px;}
+.fs25 {font-size: 25px;}
+.fs26 {font-size: 26px;}
+.fs27 {font-size: 27px;}
+.fs28 {font-size: 28px;}
+.fs29 {font-size: 29px;}
+.fs30 {font-size: 30px;}
+.fs31 {font-size: 31px;}
+.fs32 {font-size: 32px;}
+.fs33 {font-size: 33px;}
+.fs34 {font-size: 34px;}
+.fs35 {font-size: 35px;}
+.fs36 {font-size: 36px;}
+.fs37 {font-size: 37px;}
+.fs38 {font-size: 38px;}
+.fs39 {font-size: 39px;}
+.fs40 {font-size: 40px;}
+.fs41 {font-size: 41px;}
+.fs42 {font-size: 42px;}
+.fs43 {font-size: 43px;}
+.fs44 {font-size: 44px;}
+.fs45 {font-size: 45px;}
+.fs46 {font-size: 46px;}
+.fs47 {font-size: 47px;}
+.fs48 {font-size: 48px;}
+.fs49 {font-size: 49px;}
+.fs50 {font-size: 50px;}
+.fs51 {font-size: 51px;}
+.fs52 {font-size: 52px;}
+.fs53 {font-size: 53px;}
+.fs54 {font-size: 54px;}
+.fs55 {font-size: 55px;}
+.fs56 {font-size: 56px;}
+.fs57 {font-size: 57px;}
+.fs58 {font-size: 58px;}
+.fs59 {font-size: 59px;}
+.fs60 {font-size: 60px;}
+
+.upper {text-transform: uppercase;}
+.aligner {text-align: center;}
+.white {color: #fff;}
+.black {color: #000;}
+.bold {font-weight: bold;}
+.lefter {float: left;}
+.righter {float: right;}
+
+/* BASIC */
+
+@font-face {
+    font-family: 'CharterITC';
+    src: url('fonts/CharterITC.woff2') format('woff2'),
+         url('fonts/CharterITC.woff') format('woff'),
+         url('fonts/CharterITC.ttf') format('truetype'),
+		 url('fonts/CharterITC.eot'),
+		 url('fonts/CharterITC.eot') format('embedded-opentype'),
+		 url('fonts/CharterITC.otf'),
+         url('fonts/CharterITC.svg#CharterITC') format('svg');}
+
+
+div, p {box-sizing: border-box;}
+
+body {
+    font-family: 'Geometria',Arial,sans-serif;
+    padding: 0;
+    margin: 0;
+}
+p {margin-top: 0px; margin-bottom: 0px;}
+
+h1 {margin-block-start: 0;
+    margin-block-end: 0;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: normal;
+}
+
+.clearfix:after {
+    content: '';
+    display: table;
+    width: 100%;
+    clear: both;
+}
+
+
+h1, h2, h3, h4, h5, h6 {margin: 0; margin-top: 0; margin-bottom: 0;}
+
+header {
+    background: url(../img/first-bg.jpg) no-repeat center top / cover;
+}
+
+.container {
+    width: 930px;
+    margin: 0 auto;
+}
